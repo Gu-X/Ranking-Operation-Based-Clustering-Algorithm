@@ -1,4 +1,4 @@
-%% Copyright (c) 2019, Xiaowei Gu and Plamen P. Angelov
+%% Copyright (c) 2019, Xiaowei Gu
 
 %% All rights reserved. Please read the "license.txt" for license terms.
 
@@ -9,8 +9,8 @@
 %==========================================================================================================
 %% Please cite the paper above if this code helps.
 
-%% For any queries about the code, please contact Dr. Xiaowei Gu and Prof. Plamen Angelov
-%% {x.gu3,p.angelov}@lancaster.ac.uk
+%% For any queries about the code, please contact Dr. Xiaowei Gu
+%% x.gu3@lancaster.ac.uk
 
 %% Programmed by Xiaowei Gu
 function [Centres,IDX]=ROC(data,a,M)
