@@ -9,4 +9,4 @@ Applied Soft Computing, vol. 77, pp. 622-634, 2019.
 Please cite the paper above if this code helps.
 
 For any queries about the code, please contact Dr. Xiaowei Gu
-x.gu3@lancaster.ac.uk
+xig4@aber.ac.uk
